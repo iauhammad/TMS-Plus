@@ -1,3 +1,7 @@
+
+# TMS-Plus
+TMS Plus is a web application targeting freelance tutors in managing their data.
+
 # README
 
 This README would normally document whatever steps are necessary to get the
